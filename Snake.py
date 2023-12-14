@@ -82,7 +82,7 @@ class Snake:
         segments: a list of Snake object representing every segment of the snake
     Method:
         grow:
-            To add a segment to the snake
+            Add a segment to the snake
         move:
             move the snake, if running in to food, add a segment to the snake
         go_down:
